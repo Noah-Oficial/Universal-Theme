@@ -1,0 +1,27 @@
+{
+  "name": "grkaty",
+  "displayName": "GRKaty",
+  "description": "",
+  "version": "0.0.2",
+  "icon": "Assets/Logo.png",
+  "publisher": "GRKaty",
+  "scripts": {
+    "g":"vsce package"
+  },
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GRKaty-Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Mode.json"
+      }
+
+    ]
+  }
+}
