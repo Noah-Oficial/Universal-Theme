@@ -2,7 +2,7 @@
   "name": "grkaty",
   "displayName": "GRKaty",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "icon": "Assets/Logo.png",
   "publisher": "GRKaty",
   "scripts": {
@@ -17,10 +17,16 @@
   "contributes": {
     "themes": [
       {
-        "label": "GRKaty-Dark",
+        "label": "GRKaty Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark-Mode.json"
+      },
+      {
+        "label": "Super Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Super_Dark-Mode.json"
       }
+
 
     ]
   }
