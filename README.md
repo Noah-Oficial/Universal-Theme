@@ -1,12 +1,12 @@
-# GRKaty Theme for Visual Studio Code
+# Universal Theme: Theme for Visual Studio Code
 
 ## Introduction
 
-Welcome to **GRKaty**, a custom theme for Visual Studio Code! This is version 0.0.1 of the theme, launched to provide an attractive and adaptable coding visual experience. You can choose from one version: **GRKaty-Dark**.
+Welcome to **Universal Theme**, a custom theme for Visual Studio Code! This is version 0.0.5 of the theme, launched to provide an attractive and adaptable coding visual experience. 
 
 ## Available Version
 
-- **GRKaty-Dark**: A dark version of the theme, perfect for long programming sessions at night.
+- **Universal-Dark**: A dark version of the theme, perfect for long programming sessions at night.
 
 ## Contributions
 
@@ -14,19 +14,19 @@ If you want to modify the theme or even create your own version, feel free to do
 
 ## How to Install
 
-To install the GRKaty theme, follow these steps:
+To install the Universal Theme theme, follow these steps:
 
 1. Open Visual Studio Code.
 2. Go to the Extensions tab (or press `Ctrl+Shift+X`).
-3. Search for `GRKaty` in the search bar.
-4. Click **Install** on the desired extension (GRKaty-Dark).
+3. Search for `Universal Theme` in the search bar.
+4. Click **Install** on the desired extension (Universal Theme).
 
 ## How to Use
 
 After installation, you can activate the theme by navigating to:
 
 1. Go to **File** > **Preferences** > **Color Theme**.
-2. Select **GRKaty-Dark** from the list.
+2. Select **Universal-Dark** from the list.
 
 ## Feedback
 
@@ -38,4 +38,4 @@ This theme is available under the MIT License (LICENSE).
 
 ---
 
-Thank you for using GRKaty! I hope you enjoy the theme and have a wonderful coding experience!
+Thank you for using Universal Theme! I hope you enjoy the theme and have a wonderful coding experience!

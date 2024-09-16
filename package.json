@@ -1,10 +1,10 @@
 {
-  "name": "grkaty",
-  "displayName": "GRKaty",
+  "name": "UniversalTheme",
+  "displayName": "Universal Theme",
   "description": "",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "icon": "Assets/Logo.png",
-  "publisher": "GRKaty",
+  "publisher": "UniversalTheme",
   "scripts": {
     "g":"vsce package"
   },
@@ -17,12 +17,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "GRKaty Dark",
+        "label": "Universal Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark-Mode.json"
       },
       {
-        "label": "Super Dark",
+        "label": "Super Universal Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Super_Dark-Mode.json"
       }
