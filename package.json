@@ -2,7 +2,7 @@
   "name": "UniversalTheme",
   "displayName": "Universal Theme",
   "description": "",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "icon": "Assets/Logo.png",
   "publisher": "UniversalTheme",
   "scripts": {
@@ -25,6 +25,11 @@
         "label": "Super Universal Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Super_Dark-Mode.json"
+      },
+      {
+        "label": "Universal White",
+        "uiTheme": "vs-dark",
+        "path": "./themes/White-Mode.json"
       }
 
 
